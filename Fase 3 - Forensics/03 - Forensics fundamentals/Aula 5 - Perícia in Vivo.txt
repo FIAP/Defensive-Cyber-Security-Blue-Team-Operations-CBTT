@@ -1,0 +1,8 @@
+Aula 5 - Perícia in Vivo
+Fase 3 - Forensics
+Capítulo: Forensics fundamentals
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=606953&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=606958
+
+Obs.: links exigem login na plataforma FIAP.

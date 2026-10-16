@@ -1,0 +1,8 @@
+Aula 1 - Introdução a IA aplicada a segurança da informação
+Fase 5 - Threat Hunting
+Capítulo: IA Aplicada a Segurança da Informação
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=626255&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=626260
+
+Obs.: links exigem login na plataforma FIAP.

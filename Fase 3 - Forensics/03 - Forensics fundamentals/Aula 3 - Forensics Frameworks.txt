@@ -1,0 +1,8 @@
+Aula 3 - Forensics Frameworks
+Fase 3 - Forensics
+Capítulo: Forensics fundamentals
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=606951&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=606956
+
+Obs.: links exigem login na plataforma FIAP.

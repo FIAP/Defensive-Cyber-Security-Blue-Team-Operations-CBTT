@@ -1,0 +1,8 @@
+Aula 4 - Ferramentas de OSINT
+Fase 2 - Developing our Intelligence
+Capítulo: Cyber Intel: Defensive Ops
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=549094&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=549102
+
+Obs.: links exigem login na plataforma FIAP.

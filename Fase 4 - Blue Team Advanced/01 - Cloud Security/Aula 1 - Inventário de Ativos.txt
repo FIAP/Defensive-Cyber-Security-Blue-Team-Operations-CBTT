@@ -1,0 +1,8 @@
+Aula 1 - Inventário de Ativos
+Fase 4 - Blue Team Advanced
+Capítulo: Cloud Security
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=614675&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=614683
+
+Obs.: links exigem login na plataforma FIAP.

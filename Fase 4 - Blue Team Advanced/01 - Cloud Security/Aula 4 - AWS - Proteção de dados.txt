@@ -1,0 +1,8 @@
+Aula 4 - AWS - Proteção de dados
+Fase 4 - Blue Team Advanced
+Capítulo: Cloud Security
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=614678&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=614686
+
+Obs.: links exigem login na plataforma FIAP.

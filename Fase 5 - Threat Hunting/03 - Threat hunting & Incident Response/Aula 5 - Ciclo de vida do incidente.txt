@@ -1,0 +1,8 @@
+Aula 5 - Ciclo de vida do incidente
+Fase 5 - Threat Hunting
+Capítulo: Threat hunting & Incident Response
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=626270&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=626277
+
+Obs.: links exigem login na plataforma FIAP.
